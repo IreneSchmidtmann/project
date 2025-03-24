@@ -6,4 +6,4 @@ usethis::use_git_config(
   init.defaultBranch = "main") # <-- not necessary but kinder than 'master'
 
 usethis::use_git()
-2
+
